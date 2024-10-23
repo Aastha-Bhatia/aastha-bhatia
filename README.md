@@ -1,4 +1,4 @@
-[![MasterHead]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fdesign-and-code&psig=AOvVaw3TXIqbl3RXxE-v4Mp19D2W&ust=1729799399330000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNjkk4mjpYkDFQAAAAAdAAAAABAI]](https://user-images.githubusercontent.com/65373279/148280039-301b677b-74e7-49f8-af75-15e7c9253d74.png))
+[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUH7ZjMdWxblQXkgmQZ1xyt0H6-flqhZeHzg&s)]
 <h1 align="center">Hi 👋, I'm Aastha Bhatia</h1>
 <h3 align="center">A passionate tech enthusiast</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aastha-bhatia&label=Profile%20views&color=0e75b6&style=flat" alt="aastha-bhatia" /> </p>
@@ -6,7 +6,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aastha-bhatia" alt="aastha-bhatia" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/aasthacodes" target="blank"><img src="https://img.shields.io/twitter/follow/aasthacodes?logo=twitter&style=for-the-badge" alt="aasthacodes" /></a> </p>
-
 <img align="right" alt="Coding" width="500"src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*vBi4Ycgdn5t3lu2SvQXuog.gif">
 
 
