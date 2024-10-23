@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **DSA**
 
-- 💬 Ask me about **C,C++,Java**
+- 💬 Ask me about **Java,C,C++,**
 
 - 📫 How to reach me **aasthabhatia.er@gmail.com**
 
