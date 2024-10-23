@@ -1,4 +1,4 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUH7ZjMdWxblQXkgmQZ1xyt0H6-flqhZeHzg&s)]
+![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQE5Kovl2aThaA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1687966664316?e=1735171200&v=beta&t=hQlEW9AdmULsP7y0TeuZ8XLK9sp6XA3K5j7CTkkhtnM)
 <h1 align="center">Hi 👋, I'm Aastha Bhatia</h1>
 <h3 align="center">A passionate tech enthusiast</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aastha-bhatia&label=Profile%20views&color=0e75b6&style=flat" alt="aastha-bhatia" /> </p>
