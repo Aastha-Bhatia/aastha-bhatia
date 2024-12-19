@@ -38,4 +38,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aastha-bhatia&show_icons=true&locale=en" alt="aastha-bhatia" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aastha-bhatia&" alt="aastha-bhatia" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=aastha-bhatia&show_icons=true&theme=radical" alt="aastha-bhatia" /></p>
+
+
