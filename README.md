@@ -38,6 +38,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aastha-bhatia&show_icons=true&locale=en" alt="aastha-bhatia" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=aastha-bhatia&show_icons=true&theme=radical" alt="aastha-bhatia" /></p>
+<p><img align="center" src="https://github-contributions.vercel.app/api/v1/aastha-bhatia" alt="GitHub Contributions Grid of aastha-bhatia" /></p>
+
 
 
