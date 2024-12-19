@@ -38,7 +38,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aastha-bhatia&show_icons=true&locale=en" alt="aastha-bhatia" /></p>
 
-<p><img align="center" src="https://github-contributions.vercel.app/api/v1/aastha-bhatia" alt="GitHub Contributions Grid of aastha-bhatia" /></p>
+<p><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=aastha-bhatia&bg_color=ffffff&color=000000&line=00ff00&point=000000&area=true&hide_border=true" alt="GitHub Activity Graph" /></p>
+
 
 
 
