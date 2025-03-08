@@ -8,11 +8,11 @@
 <img align="right" alt="Coding" width="500"src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*vBi4Ycgdn5t3lu2SvQXuog.gif">
 
 
-- 🔭 I’m currently working on **Creating Mini Games**
+- 🔭 I’m currently working on **Creating Web Applications**
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently learning **Data Structures & Algorithms**
 
-- 💬 Ask me about **Java,C,C++,**
+- 💬 Ask me about **Java,C++,C, Python, HTML, CSS, JavaScript, BootStrap, App Development, GUI Development, Game Development, etc.**
 
 - 📫 How to reach me **aasthabhatia.er@gmail.com**
 
@@ -22,7 +22,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/aasthacodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aasthacodes" height="30" width="40" /></a>
+  
 <a href="https://linkedin.com/in/aasthabhatia-er" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aasthabhatia-er" height="30" width="40" /></a>
 <a href="https://instagram.com/_aasthabhatia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_aasthabhatia" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/aasthabhatia_er" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aasthabhatia_er" height="30" width="40" /></a>
