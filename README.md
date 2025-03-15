@@ -29,7 +29,6 @@
 ## ✍️ Random Dev Quote  
 
 <div align="center">
-  <p>✍️ Random Dev Quote</p>
   <blockquote>
     "Readability of code is now my first priority than being fast..."
   </blockquote>
