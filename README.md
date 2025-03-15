@@ -1,7 +1,5 @@
 ![Header Image](img.png)
 
-
-# 💫 About Me:
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=FFA500&width=435&lines=Hey+there!+I'm+Aastha+Bhatia.;Passionate+Tech+Enthusiast!;Always+Learning+and+Building!)](https://git.io/typing-svg)
 
 # 💫 About Me:
