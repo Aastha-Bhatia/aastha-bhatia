@@ -25,9 +25,12 @@
 
 ### ✍️ Random Dev Quote  
 
-| Quote |
-|---|
-| ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) |
+<div align="center">
+  <p>✍️ Random Dev Quote</p>
+  <blockquote>
+    "Readability of code is now my first priority than being fast..."
+  </blockquote>
+</div> 
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=aastha-bhatia&limit=5&theme=dark&combine_all_yearly_contributions=true)
