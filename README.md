@@ -1,6 +1,10 @@
 ![Header Image](img.png)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=FFA500&width=435&lines=Hey+there!+I'm+Aastha+Bhatia.;Passionate+Tech+Enthusiast!;Always+Learning+and+Building!)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=FFA500&width=435&lines=Hey+there!+I'm+Aastha+Bhatia.;Passionate+Tech+Enthusiast!;Always+Learning+and+Building!" alt="Typing SVG" />
+  </a>
+</p>
 
 # 💫 About Me:
 🔭 I’m currently working on: Creating Web Applications<br>👯 I’m looking to collaborate on: Projects<br>🤝 I’m looking for help with: Internship Opportunities<br>🌱 I’m currently learning: Dara Structures & Algorithms<br>💬 Ask me about: Programming, Projects, DSA, Web Applications, UI-UX, GUI Development, Game Design & Development<br>⚡ Fun fact: I study a day before my exams XD
