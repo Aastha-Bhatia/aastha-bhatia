@@ -7,7 +7,7 @@
 </p>
 
 # 💫 About Me:
-🔭 I’m currently working on: Creating Web Applications<br>👯 I’m looking to collaborate on: Projects<br>🤝 I’m looking for help with: Internship Opportunities<br>🌱 I’m currently learning: Dara Structures & Algorithms<br>💬 Ask me about: Programming, Projects, DSA, Web Applications, UI-UX, GUI Development, Game Design & Development<br>⚡ Fun fact: I study a day before my exams XD
+🔭 I’m currently working on: Creating Web Applications<br>👯 I’m looking to collaborate on: Projects<br>🤝 I’m looking for help with: Internship Opportunities<br>🌱 I’m currently learning: Data Structures & Algorithms<br>💬 Ask me about: Programming, Projects, DSA, Web Applications, UI-UX, GUI Development, Game Design & Development<br>⚡ Fun fact: I study a day before my exams XD
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aasthabhatia-er) 
